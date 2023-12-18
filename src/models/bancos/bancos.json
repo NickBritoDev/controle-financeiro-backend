@@ -1,0 +1,10 @@
+[
+  {
+    "nome_banco": "Bradesco",
+    "saldo_debito": 6000,
+    "saldo_credito": 7500,
+    "saldo_poupado": 12,
+    "id_usuario": "97f569f4-23de-4e3e-9ff2-0494d2b2f235",
+    "id_banco": "8a466235-1035-4e4a-8a42-d7f41760a65d"
+  }
+]

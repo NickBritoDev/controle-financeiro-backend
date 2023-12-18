@@ -1,0 +1,14 @@
+[
+  {
+    "nome": "Carro",
+    "valor": 50000,
+    "parcela": 1,
+    "quantidade_parcela": 10,
+    "valor_parcelas": 5000,
+    "cashback": 1,
+    "valor_cashback": 10000,
+    "id_banco": "8a466235-1035-4e4a-8a42-d7f41760a65d",
+    "id_movimentacao": "fda7f261-7689-4fe4-a333-7bebeddd2dd2",
+    "id_conta": "3c39eb23-047a-45c7-9b39-8e18036c241e"
+  }
+]
